@@ -3,7 +3,7 @@
 // Author: @Humiditii
 
 /*
-    This anagram function accepts two strings and compare them 
+    Accepts a square matrix and take the sum of the diagonals then subtracting it
 */
 
 
